@@ -1,7 +1,7 @@
 ---
 title: Is a Genomic Test Better at Finding Aggressive Prostate Cancer?
 author: Nadia Jaber
-date: 2023-06-22T21:20:56.800Z
+date: 2022-10-13T21:20:56.800Z
 tags:
   - Prostate cancer
 ---
