@@ -2,7 +2,7 @@
 title: "Clinically Localized Prostate Cancer: AUA/ASTRO Guideline (2022)"
 description: ""
 author: Eastham JA, Auffenberg GB, Barocas DA, et al.
-date: 2023-06-22T21:09:07.125Z
+date: 2022-11-01T21:09:07.125Z
 tags:
   - Prostate cancer
 ---
