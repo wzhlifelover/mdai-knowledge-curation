@@ -5,27 +5,7 @@ date: 2023-06-22T19:03:27.352Z
 tags:
   - Liver cancer (HCC)
 ---
-<!-----
 
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.281 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Thu Jun 22 2023 12:03:09 GMT-0700 (PDT)
-* Source doc: Liver Cancer (HCC) knowledge base (Short)
-* This is a partial selection. Check to make sure intra-doc links work.
------>
 
 
 Source: “https://radiopaedia.org/articles/hepatocellular-carcinoma?lang=us”
