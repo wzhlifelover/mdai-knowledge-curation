@@ -29,7 +29,8 @@ Researchers around the world are working to find better ways to prevent, detect,
 * New tests to personalize your treatment
 
   * Biomarkers
-  * Breast cancer tissue is routinely tested for the biomarkers ER, PR, and HER2 to help make treatment decisions. A biomarker is any gene, protein, or other substance that can be measured in blood, tissues, or other body fluids.
+
+  * Breast cancer tissue is routinely tested for the biomarkers ER, PR, and HER2 to help make treatment decisions. A biomarker is any gene, protein, or other substance that can be measured in blood, tissues, or other body fluids. 
   * Circulating tumor DNA (ctDNA) is DNA that is released into the bloodstream when cancer cells die. Identifying and testing the ctDNA in the blood for biomarkers is a rapidly growing area of study.
   * Some ways ctDNA might potentially be used in breast cancer including:
   * Looking for new biomarkers in the tumor cells that might mean the cancer has become resistant to specific treatments (like chemo or targeted drug therapy)
@@ -64,7 +65,8 @@ Some areas of research involving breast cancer treatment include:
 
 Supportive care
   Supportive care helps patients and caregivers manage the symptoms of cancer and side effects of cancer treatment. Clinical trials are looking at different medicines and techniques to try to improve supportive care for people with breast cancer. For example, some studies are investigating:
-  * If there are better medicines or ways to prevent the damage to nerves that sometimes happen with certain chemotherapy drugs 
-  * If drugs or other treatments might be helpful in limiting memory problems and other brain symptoms after chemotherapy
-  * If certain heart or blood pressure drugs, can help prevent the heart damage sometimes caused by common breast cancer drugs such as doxorubicin and trastuzumab
-  * If there are medicines that might be able to help treat the tired feeling that cancer can cause
+
+* If there are better medicines or ways to prevent the damage to nerves that sometimes happen with certain chemotherapy drugs 
+* If drugs or other treatments might be helpful in limiting memory problems and other brain symptoms after chemotherapy
+* If certain heart or blood pressure drugs, can help prevent the heart damage sometimes caused by common breast cancer drugs such as doxorubicin and trastuzumab
+* If there are medicines that might be able to help treat the tired feeling that cancer can cause
